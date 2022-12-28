@@ -1,0 +1,6 @@
+name: ServerControlPlugin
+version: '1.0-SNAPSHOT'
+main: servercontroll.serverpower_plugin.Serverpower_plugin
+api-version: 1.15
+authors: [ discofalafel ]
+description: Ein Plugin welches das Starten und Stoppen eines Servers ermöglicht
